@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://files.tecnoblog.net/wp-content/uploads/2021/07/nubank-cartao-ultravioleta-3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+div{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20%;
+    border-radius: 10px;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+div p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div h1{
+    font-family: sans-serif;
+}

@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://www.datocms-assets.com/39397/1713536566-7-dobra-conta-tablet-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    
+    
+}
+div{
+    text-align: center;
+    margin-top: 20%;
+    background-color: rgba(238, 238, 238, 0.793);
+    border-radius: 10px;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+
+}
+div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div input{
+    border-radius: 7px;
+    margin: 10px;
+   
+}
+div button{
+    border-radius: 3px;
+   
+}
+
